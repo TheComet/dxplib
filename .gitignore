@@ -2,4 +2,5 @@
 *.~PCBLIB
 *.~SCHLIB
 *.~LibPkg
+*.LIBPKG
 *.LOG
