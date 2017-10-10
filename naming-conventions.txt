@@ -1,0 +1,18 @@
+Inductors
+---------
+ L .................. It is an inductor
+ SMD/THT ............ Mount technology
+ FERRITE/AIR/IRON ... Core material
+ SHIELD/OPEN ........ Shielded or not
+ (inductance) ....... Inductor value (e.g. 10U)
+ (max current) ...... Maximum current (e.g. 10MA)
+ (dcr) .............. DC Resistance (e.g. 1E7)
+ (tolerance) ........ Tolerance (e.g. 5%)
+ (Q@freq) ........... Q factor at frequency (e.g. 55@2MHZ)
+ (package) .......... Package, (e.g. 0603)
+
+Symbol:
+ + Two dashed lines -> ferrite core
+ + Two solid lines -> iron core
+ + No lines -> air
+ + Surrounded with circle -> shielded
